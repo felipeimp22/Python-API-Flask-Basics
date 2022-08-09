@@ -1,10 +1,10 @@
 ### Comandos basicos
 
-pipenv shell < --- cria o ambiente virtual
-pipenv install  < --- instala as dependencias
-pipenv install --dev < --- instala as dependencias de dev
-pipenv graph < --- Mostra o arquivo pipfile
-pipenv check < --- Verifica se há vulnerabilidade de segurança
+pipenv shell < --- cria o ambiente virtual \n
+pipenv install  < --- instala as dependencias \n
+pipenv install --dev < --- instala as dependencias de dev \n
+pipenv graph < --- Mostra o arquivo pipfile \n
+pipenv check < --- Verifica se há vulnerabilidade de segurança \n
 
 
 ----------------------------------------------------------
